@@ -1,0 +1,12 @@
+{
+  "name": "سیدا | پیام‌رسان مدرسه سیدالشهدا",
+  "short_name": "سیدا",
+  "description": "پیام‌رسان اختصاصی مدرسه سیدالشهدا کبودرآهنگ",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#123b70",
+  "icons": []
+}
